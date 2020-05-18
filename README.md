@@ -10,3 +10,6 @@
 ### 爬取3DM游戏排行榜迅雷下载地址
 3.3dmGame，使用BeautifulSoup以及requests，相比较正则更为简单。有能力的同学可以自己加上线程加快爬取速度。<br>
 也可进入[3dmGameDown](/3dmGameDown)点击game.txt直接食用。
+
+### 爬取无圣光写真网站
+4.shengguang.py，专用于爬取写真网站。
